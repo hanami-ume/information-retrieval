@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Convenience wrapper:  ./search --hits=27 new york san francisco
+exec python3 "$(dirname "$0")/src/search.py" "$@"

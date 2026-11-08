@@ -1,0 +1,39 @@
+q5 = nba strike closed-door (took 0.003 seconds)
+
+01 [0.1839] ABC19981013_1830_1604
+The NBA has canceled the first two weeks of the basketball season
+
+02 [0.1726] CNN19981014_0130_1319
+NBA talks are scheduled later this week and some games have been scheduled
+
+03 [0.1724] CNN19981006_1130_1337
+The NBA lockout forced the league to cancel the entire preseason, Monday. The
+NBA is scared the player lockout will eat into the regular season
+
+04 [0.1552] CNN19981202_0130_1297
+the nba players and owners made some progress on tuesday. they agreed to meet on
+thursday
+
+05 [0.1505] CNN19981203_1130_1325
+And NBA owners and players will get back to the bargaining table. Rob Ticktin,
+"CNN Headline Sports
+
+06 [0.1505] CNN19981203_2130_1308
+NBA owners and players are still at the bargaining table. Michael jord been has
+joined the talks
+
+07 [0.1449] CNN19981105_0130_1347
+The NBA lockout continues. Players and owners met Wednesday for less than two
+hours. No progress was made
+
+08 [0.1442] CNN19981106_1600_1356
+After the shortest meeting since the lockout began, the NBA players and owners
+are expected to reestablish contact today
+
+09 [0.1422] CNN19981014_1130_0447
+Time now for the extended weather forecast. Also ahead -- some basketball fans
+cry "foul" over the NBA's latest announcement
+
+10 [0.1311] CNN19981019_2130_1328
+NBA owners were also big winners. An arbitrator ruled they will not have to pay
+players with guaranteed contracts during the lockout

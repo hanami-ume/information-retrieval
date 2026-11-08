@@ -1,0 +1,47 @@
+q2 = mitch george (took 0.001 seconds)
+
+01 [0.2081] CNN19981105_2130_0959
+And what used to be hurricane Mitch has passed over south Florida and moved out
+to sea. All storm warnings for Mitch have been dropped
+
+02 [0.2066] PRI19981120_2000_1647
+For the World, I'm Liz George in New York
+
+03 [0.2048] CNN19981105_0130_0429
+...gulf and atlantic sides of Florida. Mitch's 45-mile-an-hour winds caused
+tornadoes that touched down in key largo, and one that took the roof off a motel
+in islamorada. The keys are still recovering from damage inflicted by hurricane
+georges ...
+
+04 [0.2037] CNN19981130_2130_0482
+One of the most destructive hurricane seasons ever ends today. 14 tropical
+storms formed in the atlantic basin between June 1st and today. Ten grew to
+hurricane strength. The two most destructive storms were Mitch and georges ...
+
+05 [0.1981] CNN19981107_1600_0953
+And the threat of disease is growing in central America, after hurricane mitch
+struck the area
+
+06 [0.1938] ABC19981025_1830_1017
+Hurricane Mitch is now described as a very dangerous storm, and it's getting
+stronger. Eastern Cuba are under a hurricane warning. Mitch's winds are about
+150 miles an hour
+
+07 [0.1907] NBC19981105_1830_0070
+...Mexico for almost two weeks now, it leaves death everywhere. Today, Mitch
+plowed across south Florida with surprising strength -- eight inches of rain
+70-mile-an-hour winds battered the keys, which still haven't recovered from
+hurricane georges six weeks ago. Mitch ...
+
+08 [0.1866] CNN19981108_1000_0502
+The extended weather forecast is next. After that -- American help for Honduras
+in the aftermath of hurricane mitch
+
+09 [0.1832] ABC19981105_1830_0406
+Moreover, Mitch is still going. It whipped through south Florida today. Up to 8
+inches of rain in a few hours. Several tornadoes touched down. Mitch finally
+appears to be breaking up
+
+10 [0.1815] CNN19981102_1130_0950
+And Nicaragua's president says flooding from hurricane Mitch is the worst
+natural disaster to strike the region since 1972

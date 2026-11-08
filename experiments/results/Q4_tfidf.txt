@@ -1,0 +1,44 @@
+q4 = "newt gingrich" down (took 0.004 seconds)
+
+01 [0.3990] CNN19981108_1000_0942
+With Newt Gingrich set to leave Congress, Bob Livingston and Christopher cox are
+making the talk show rounds
+
+02 [0.3828] CNN19981105_1130_0337
+Meanwhile, house speaker Newt Gingrich is taking some heat for the GOP election
+strategy. Republicans warned Gingrich yesterday of a "dump Newt" movement among
+house members. Gingrich is downplaying talk of any challenge
+
+03 [0.3749] CNN19981110_0130_1645
+Soon-to-be ex-speaker Newt Gingrich explains his decision to resign and names
+his replacement. That story in two minutes
+
+04 [0.3749] CNN19981119_0130_0923
+Republicans in the house have elected Louisiana representative Bob livingston to
+succeed Newt Gingrich as house speaker. Livingston received unanimous backing
+
+05 [0.3578] CNN19981108_1300_0947
+Louisiana representative Bob Livingston is believed to be the front-runner among
+republicans in the scramble to replace Newt Gingrich as house speaker
+
+06 [0.3553] CNN19981118_2130_0926
+House republicans have endorsed Louisiana congressman Bob Livingston as their
+candidate for house speaker. He would replace Newt Gingrich in the new Congress
+
+07 [0.3529] CNN19981118_1130_0921
+Bob Livingston is the republican pick to take over as house speaker when
+elections are held in January. He would replace Newt Gingrich
+
+08 [0.3455] CNN19981106_2130_0000
+House speaker Newt Gingrich announces a "difficult personal decision" that sends
+shockwaves throughout the nation. "Headline News." I'm Toria Tolley, in for
+Lynne Russell
+
+09 [0.3406] CNN19981107_0130_1660
+In the next 30 minutes -- house speaker Newt Gingrich sets the stage for a
+Republican leadership shuffle. I'm Lori Geary. This is "CNN Headline News
+
+10 [0.3373] CNN19981108_1130_0913
+Republicans are jockeying for position as they consider who will replace newt
+Gingrich as house speaker. Louisiana representative Bob Livingston has emerged
+as the leading contender

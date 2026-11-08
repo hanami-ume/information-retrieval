@@ -1,0 +1,51 @@
+q3 = bill clinton israel (took 0.003 seconds)
+
+01 [0.2441] NBC19981220_1830_1169
+When we continue -- peace and politics in Israel
+
+02 [0.2236] CNN19981214_1600_0928
+Checking our top stories -- President Clinton is commending Palestinian leaders
+for efforts toward peace with Israel. Mr. Clinton was on hand in Gaza to see the
+Palestine national council vote to reaffirm its commitment to remove ...
+
+03 [0.2218] VOA19981208_0500_0050
+I'm Bill Hazard, VOA news. U.S. mediator Dennis Ross is beginning a mission to
+the mideast aimed at diffusing tensions between Israel and the Palestinians
+ahead of President Clinton's trip to the region. Israel has suspended ...
+
+04 [0.2202] PRI19981214_2000_0055
+...this is Pamela McCall in the BBC Newsroom in London. The Palestinian's most
+senior ruling body has once again renounced clauses calling for the destruction
+of Israel. The Palestine National Council took the vote in front of Bill Clinton
+...
+
+05 [0.2158] CNN19981212_1000_0944
+President Clinton is on his way to the mideast. He left for Israel this morning
+to help usher in the second stage of the troubled wye river peace accord
+
+06 [0.2140] VOA19981113_0500_2039
+The Clinton Administration says it is disappointed with Israel's decision to
+advertise for bids to build Jewish housing in east Jerusalem. The Israeli action
+came a day after Israel's cabinet ratified the Wye River Peace Agreement ...
+
+07 [0.2054] APW19981213_0389
+The speaker of the Iranian Parliament said Sunday that U.S. President Bill
+Clinton's planned visit to Gaza was part of a ``dangerous conspiracy,'' the
+official news agency reported. Clinton, who arrived in Israel late Saturday,
+plans ...
+
+08 [0.2038] CNN19981017_1300_0938
+Checking the hour's top stories -- President Clinton is joining and the leaders
+of Israel and the Palestinian authority at the mideast summit in rural Maryland
+today. Sources say little progress has been made
+
+09 [0.2009] VOA19981208_0500_1832
+...at diffusing tensions between Israel and the Palestinians ahead of President
+Clinton's trip to the region. Mr. Ross is to meet first with Prime Minister
+Benjamin Netanyahu in Israel, then hold talks with Palestinian leader Yassar
+Arafat. President Clinton ...
+
+10 [0.2005] CNN19981003_1600_0942
+President Clinton is urging Congress to come up with a comprehensive Bill aimed
+at protecting farmers. He wants republicanning to provide more money than
+they're offering

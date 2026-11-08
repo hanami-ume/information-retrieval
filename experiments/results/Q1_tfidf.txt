@@ -1,0 +1,46 @@
+q1 = hurricane (took 0.001 seconds)
+
+01 [0.2841] CNN19981128_1600_1369
+finally, one matinee on ice. the hurricanes in new york, facing the islanders
+
+02 [0.2601] CNN19981026_1600_0952
+An already powerful hurricane is getting even stronger. Hurricane Mitch is now a
+category 5 hurricane, with winds of 170 miles an hour. It's moving toward
+central America and could reach Honduras and Nicaragua
+
+03 [0.2524] CNN19981107_1600_0953
+And the threat of disease is growing in central America, after hurricane mitch
+struck the area
+
+04 [0.2469] ABC19981025_1830_1017
+Hurricane Mitch is now described as a very dangerous storm, and it's getting
+stronger. Eastern Cuba are under a hurricane warning. Mitch's winds are about
+150 miles an hour
+
+05 [0.2377] CNN19981108_1000_0502
+The extended weather forecast is next. After that -- American help for Honduras
+in the aftermath of hurricane mitch
+
+06 [0.2364] CNN19981026_2130_0931
+Top stories this evening -- hurricane Mitch is growing into one of the strongest
+atlantic storms ever recorded with sustained winds reaching 180 miles an hour.
+The national hurricane center says the category 5 hurricane is at ...
+
+07 [0.2358] CNN19981026_1130_0952
+And the most powerful hurricane of the season is drifting slowly across the
+western Caribbean, in the direction of central America. Hurricane Mitch has top
+sustained winds of about 155 miles an hour
+
+08 [0.2357] CNN19981027_2130_0519
+The extended weather forecast is next. And still ahead -- using technology to
+map hurricane damage along our coastlines
+
+09 [0.2345] CNN19981027_0130_0931
+Checking the top stories -- the national hurricane center says hurricane mitch
+is an extremely dangerous storm which is capable of causing catastrophic damage.
+Thousands of people are being evacuated from their homes
+
+10 [0.2326] ABC19981130_1830_1182
+This is the end of the hurricane season, according to the calendar, anyway. It
+was the deadliest in 200 years and one of the most enduring. There is still
+hurricane Nicole, way out in the atlantic, the tenth hurricane ...

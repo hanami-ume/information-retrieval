@@ -1,0 +1,56 @@
+q1 = hurricane (took 0.004 seconds)
+
+01 [8.8695] CNN19981019_1600_0586
+...the city of mazatlan. Mexico's government has sent 2,000 soldiers and
+shipments of aid supplies to the area. Meanwhile, hurricane Lester's winds fell
+to about 90 miles per hour, and a Previous hurricane warning was downgraded to a
+hurricane ...
+
+02 [8.8151] CNN19981008_1130_0447
+Hurricane georges is now the third costliest hurricane on record. Actuaries
+estimate georges caused $2.5 billion in insured losses throughout the U.S. and
+its island territories. Puerto Rico was hardest hit with $1.7 billion worth of
+...
+
+03 [8.7823] ABC19981130_1830_1182
+This is the end of the hurricane season, according to the calendar, anyway. It
+was the deadliest in 200 years and one of the most enduring. There is still
+hurricane Nicole, way out in the atlantic, the tenth hurricane ...
+
+04 [8.7711] VOA19981201_0500_0794
+...year. But it is also because the Federal Hurricane Research Agencies had
+better equipment including more so-called hurricane hunter airplanes to monitor
+the storms. But the storm watchers say they need to rethink the way they measure
+storms. Hurricanes ...
+
+05 [8.7589] CNN19981018_1000_0421
+Two hurricanes are threatening Mexico's pacific coast. Hurricane Lester has made
+an abrupt left turn overnight and is heading westward, away from the southern
+part of the coast. But forecasters warn it could make a turn ...
+
+06 [8.7174] CNN19981018_1300_0286
+Hurricane warnings are posted along Mexico's pacific coast. Forecasters say twin
+hurricanes are lurking. At last report, hurricane Lester was about 195 miles
+southeast of acapulco. Its maximum sustained winds are about 100 miles an hour
+...
+
+07 [8.7153] NBC19981027_1830_0212
+...The highest winds ever recorded in a hurricane hitting the U.S. 195 miles an
+hour. In killer hurricane camille, in 1969. Slamming into the Mississippi coast
+all the way into Virginia. At the national center for atmospheric research,
+hurricane ...
+
+08 [8.6806] ABC19981027_1830_0173
+It is as we said, very unusual for a hurricane to reach the level of category 5.
+hurricane Mitch is already being blamed for the deaths of at least ten people.
+Here's ABC's Bill Blakemore. It's ...
+
+09 [8.6726] MNB19981130_2100_1560
+...what turns out to have been one of the busiest hurricane soons ever. It was
+$DEADLIEST season since 178 O'when people were killed in the caribbean. Almost
+all related deaths were related to hurricane Mitch. There were 10 hurricanes ...
+
+10 [8.6599] CNN19981130_1600_0465
+One of the deadliest hurricane seasons ever ends today. 14 tropical storms
+formed in the atlantic basin between June 1st and today. Ten grew to hurricane
+strength. The two most destructive storms were Mitch and georges ...
