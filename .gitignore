@@ -6,3 +6,6 @@ experiments/screens_html/
 report/*.aux
 report/*.log
 report/*.out
+# chat delivery bundles (contents are tracked under report/)
+figures.zip
+word_assets.zip
