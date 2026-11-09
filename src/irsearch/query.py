@@ -20,7 +20,7 @@ from typing import List, Set, Tuple
 
 from .analyzer import Analyzer
 
-_PHRASE_RE = re.compile(r"[\"“”]([^\"“”]*)[\"“”]")
+_PHRASE_RE = re.compile(r"[\"\u201c\u201d]([^\"\u201c\u201d]*)[\"\u201c\u201d]")
 
 
 @dataclass
@@ -75,7 +75,7 @@ def parse_query(text: str, analyzer: Analyzer, hyphen_mode: str = "phrase") -> Q
         add_group(analyzer.terms(m.group(1)))
         last = m.end()
     rest.append(text[last:])
-    free = re.sub(r"[\"“”]", " ", " ".join(rest))  # unbalanced quotes
+    free = re.sub(r"[\"\u201c\u201d]", " ", " ".join(rest))  # unbalanced quotes
     for terms, _, _ in analyzer.surface_tokens(free):
         add_group(terms, hyphenated=True)
     return q

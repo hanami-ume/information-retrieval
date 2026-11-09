@@ -14,7 +14,7 @@
 \usepackage{needspace}
 \usepackage{hyperref}
 
-\setmonofont{JetBrains Mono}[Scale=0.85]
+\setmonofont{JetBrains Mono}[Scale=0.85, Contextuals=NoAlternate]
 
 \definecolor{codebg}{HTML}{F7F7F5}
 \definecolor{coderule}{HTML}{D6D5D0}
@@ -136,7 +136,7 @@ XeLaTeX & TeX Live 2023 \\
 _TOKEN_RE = re.compile(
     r"(?P<num>\d+(?:[.,]\d+)+)"          # 1,000  3.6  1,234.5
     r"|(?P<abbr>(?:[a-z]\.){2,})"         # u.s.  u.n.
-    r"|(?P<word>[a-z0-9]+(?:['’\-][a-z0-9]+)*)"  # words, clinton's, closed-door
+    r"|(?P<word>[a-z0-9]+(?:['\u2019\-][a-z0-9]+)*)"  # words, clinton's, closed-door
 )
 
     def surface_tokens(self, text: str) -> Iterator[Tuple[List[str], int, int]]:
@@ -158,7 +158,7 @@ _TOKEN_RE = re.compile(
             elif kind == "abbr":
                 yield [tok.replace(".", "")], m.start(), m.end()
             else:
-                tok = tok.replace("’", "'")
+                tok = tok.replace("\u2019", "'")
                 if tok.endswith("'s"):
                     tok = tok[:-2]
                 tok = tok.replace("'", "")
@@ -233,7 +233,7 @@ _TOKEN_RE = re.compile(
         add_group(analyzer.terms(m.group(1)))
         last = m.end()
     rest.append(text[last:])
-    free = re.sub(r"[\"“”]", " ", " ".join(rest))  # unbalanced quotes
+    free = re.sub(r"[\"\u201c\u201d]", " ", " ".join(rest))  # unbalanced quotes
     for terms, _, _ in analyzer.surface_tokens(free):
         add_group(terms, hyphenated=True)
     return q

@@ -23,7 +23,7 @@ from . import porter
 _TOKEN_RE = re.compile(
     r"(?P<num>\d+(?:[.,]\d+)+)"          # 1,000  3.6  1,234.5
     r"|(?P<abbr>(?:[a-z]\.){2,})"         # u.s.  u.n.
-    r"|(?P<word>[a-z0-9]+(?:['’\-][a-z0-9]+)*)"  # words, clinton's, closed-door
+    r"|(?P<word>[a-z0-9]+(?:['\u2019\-][a-z0-9]+)*)"  # words, clinton's, closed-door
 )
 
 
@@ -60,7 +60,7 @@ class Analyzer:
             elif kind == "abbr":
                 yield [tok.replace(".", "")], m.start(), m.end()
             else:
-                tok = tok.replace("’", "'")
+                tok = tok.replace("\u2019", "'")
                 if tok.endswith("'s"):
                     tok = tok[:-2]
                 tok = tok.replace("'", "")
